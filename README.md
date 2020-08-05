@@ -34,7 +34,9 @@ This started off as a project for me to make a LAN based status board for NHL ga
 <h3>Things you can display</h3>
 
 Start Date and Time of Next Game:
+
           /nhl/out/game/start/
 
 Start Date and Time of Next Game:
+
           /nhl/out/game/start/
