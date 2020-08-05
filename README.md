@@ -75,7 +75,7 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
     <pre>/nhl/set/interval=YY
         where YY is a number of seconds (Default is 5, accepts 1 through 9999)</pre>
            HockEOS will reply with:
-            <pre>/nhl/out/interval=ZZ
+            <pre>/nhl/out/set/interval=ZZ
         where ZZ is the number of seconds you specified</pre>
 
 
@@ -83,7 +83,7 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
     <pre>/nhl/set/push=true  (or false)
         </pre>
            HockEOS will reply with:     
-             <pre>/nhl/out/push=true  (or false)
+             <pre>/nhl/out/set/push=true  (or false)
               </pre>
         
 
