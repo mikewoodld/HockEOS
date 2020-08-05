@@ -42,7 +42,8 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h3>Things you can display</h3>
 
-![media/example_magic_sheet.png](media/example_magic_sheet.png)
+![media/example_magic_sheet_blind.png](media/example_magic_sheet_blind.png)
+![media/example_magic_sheet_live.png](media/example_magic_sheet_live.png)
 
 
 
