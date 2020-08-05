@@ -33,4 +33,6 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h3>Things you can display</h3>
     <pre>/nhl/out/game/start/</pre>
-    TEST
+
+
+TEST TEST TEST
