@@ -39,8 +39,8 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 - Set up NodeRED OSC:
   - Double click on the grey UDP node under "Incoming OSC"
-  - Set incoming UDP port (3033 default) - this will be your OUTGOING port on EOS.
-    ![media/node_red_osc_setup_incoming.png](media/node_red_osc_setup_incoming.png)
+    - Set incoming UDP port (3033 default) - this will be your OUTGOING port on EOS.
+      ![media/node_red_osc_setup_incoming.png](media/node_red_osc_setup_incoming.png)
   - Click Done
 
   - Double Click on the outgoing UDP node to the far right under "Outgoing OSC"
