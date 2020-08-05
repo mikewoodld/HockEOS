@@ -1,6 +1,9 @@
 # HockEOS
 Get realtime NHL stats pushed to EOS using OSC from NodeRed running on a separate machine.
 
+This is in absolutely no way affiliated with ETC, and is certainly not endorsed by ETC.
+Of course, I recommend that you NOT use this during a show. 
+
 !! THIS README IS NOT COMPLETE !!
 
 <h1>About</h1>
@@ -45,7 +48,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
 ![media/example_magic_sheet_blind.png](media/example_magic_sheet_blind.png)
 ![media/example_magic_sheet_live.png](media/example_magic_sheet_live.png)
 
-
+Right now I'm starting with a limited set of data. There's all kinds of data that the NHL API makes available  - you could easily reverse engineer what I've made here to add more data, or you can wait until I add more :)
 
 <h4>Game Information</h4>
 Start Date and Time of Next Game:
