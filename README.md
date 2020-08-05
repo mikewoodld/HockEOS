@@ -34,7 +34,7 @@ Please follow these instructions, in this order, or else it won't work. You must
 - Install node-red-contrib-moment Node:
 
     https://github.com/mikewoodld/node-red-contrib-moment
-    
+
 - Install node-red-contrib-interval Node:
 
     https://github.com/mikewoodld/node-red-contrib-interval
@@ -90,12 +90,11 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
            HockEOS will reply with:     
              <pre>/nhl/out/set/push=true  (or false)
               </pre>
-        
+
 
 <h3>Things you can display</h3>
 
-![media/example_magic_sheet_blind.png](media/example_magic_sheet_blind.png)
-![media/example_magic_sheet_live.png](media/example_magic_sheet_live.png)
+Click here to see image examples. (link here)
 
 Right now I'm starting with a limited set of data. There's all kinds of data that the NHL API makes available  - you could easily reverse engineer what I've made here to add more data, or you can wait until I add more :)
 
@@ -170,22 +169,22 @@ Power Play Status - Away Team:
 
         /nhl/out/away/powerplay/
               Example Return: "POWER PLAY" or "PENALTY KILL" or "
-              
+
 Players On Ice - Home Team:
 
         /nhl/out/away/onice/
               Example Return: Carriage-return separated list of players on ice
-              
+
 Players On Ice - Away Team:
 
         /nhl/out/away/onice/
               Example Return: Carriage-return separated list of players on ice
-              
+
 Players in Penalty Box - Home Team:
 
         /nhl/out/away/inbox/
               Example Return: Carriage-return separated list of players in box
-              
+
 Players in Penalty Box - Away Team:
 
         /nhl/out/away/inbox/
@@ -222,7 +221,7 @@ Away Team Shots on Goal:
 
         /nhl/out/away/shots/
               Example Return: 20
-              
+
 Home Team Blocks:
 
         /nhl/out/home/blocks/
@@ -251,13 +250,13 @@ Shootout - Home Team Attempts:
 Shootout - Home Team Scores:
 
         /nhl/out/game/shootout/home/scores/
-              Example Return: "SCORES: 0" 
+              Example Return: "SCORES: 0"
 
 Shootout - Away Team Attempts:
 
         /nhl/out/game/shootout/away/attempts/
-              Example Return: "ATTEMPTS: 2" 
-              
+              Example Return: "ATTEMPTS: 2"
+
 Shootout - Away Team Scores:
 
         /nhl/out/game/shootout/away/scores/
