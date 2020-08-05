@@ -22,13 +22,29 @@ This started off as a project for me to make a LAN based status board for NHL ga
 <h2>Installation Instructions (COMING SOON)</h2>
 
 - Install NodeRED on your machine using the instructions found here:
+
       https://nodered.org/docs/getting-started/local
 
-- Need OSC and MOMENT modules for NodeRED - Details here.
+- Install node-red-contrib-osc Node:
 
-- Network Requirements Go Here
+      https://github.com/mikewoodld/node-red-contrib-osc
 
-- EOS Network Settings Go Here
+- Install node-red-contrib-moment Node:
+
+      https://github.com/mikewoodld/node-red-contrib-moment
+
+- Make sure computer running NodeRED has active internet connection.
+
+- Make sure that EOS/Nomad and NodeRed computer can talk to each other on a network (Wired recommended)
+
+- Set up NodeRED OSC:
+  - Double click on the grey UDP note under "Incoming OSC"
+  - Set incoming UDP port (3033 default) - this will be your OUTGOING port on EOS.
+  ![media/node_red_osc_setup_incoming.png](media/node_red_osc_setup_incoming.png)
+
+
+
+
 
 
 <h2>Eos Magic Sheet Setup</h2>
