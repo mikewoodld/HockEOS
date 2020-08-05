@@ -36,11 +36,14 @@ This started off as a project for me to make a LAN based status board for NHL ga
 Start Date and Time of Next Game:
 
         /nhl/out/game/start/
+            Example Return: "August 2nd, 2020 10:00PM"
 
 Arena Name of Next Game:
 
         /nhl/out/arena/
+            Example Return: "Amalie Arena"
 
 Game Status:
 
         /nhl/out/game/status/
+            Example Return: "In Progress"
