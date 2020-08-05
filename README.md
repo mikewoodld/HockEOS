@@ -20,7 +20,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
 <h2>Eos Magic Sheet Setup</h2>
 
 <h3>Subscribe to Team</h3>
-  Tell: HockEOS which team you want to see game data for:
+  Tell HockEOS which team you want to see game data for:
     <pre>/nhl/get/team=XXX
         where xxx= 3-digit team code</pre>
 
@@ -32,7 +32,6 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 
 <h3>Things you can display</h3>
+
+Start Date and Time of Next Game:
     <pre>/nhl/out/game/start/</pre>
-
-
-TEST TEST TEST
