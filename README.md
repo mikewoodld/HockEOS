@@ -135,6 +135,7 @@ Last Action:
               Example Return: "Icing"
 
 Detail:
+
         /nhl/out/play/detail/
               Example Return: "Stoppage - Icing"
               This basically just concatenates the earlier two objects into one.
