@@ -2,7 +2,7 @@
 Get realtime NHL stats pushed to EOS using OSC from NodeRed running on a separate machine.
 
 This is in absolutely no way affiliated with ETC, and is certainly not endorsed by ETC.
-Of course, I recommend that you NOT use this during a show. 
+Of course, I recommend that you NOT use this during a show.
 
 !! THIS README IS NOT COMPLETE !!
 
@@ -10,15 +10,19 @@ Of course, I recommend that you NOT use this during a show.
 This started off as a project for me to make a LAN based status board for NHL games. Then, Scott Tusing joked that I should make it also send the data to EOS. So, here we are.
 
 <h2>What You Need</h2>
+
 - Eos Family Console (or Nomad)
 
-- Network
+- Network between EOS/Nomad and:
 
 - Computer running NodeRED (must have internet connection)
+  - I use a Raspberry Pi, but it should work on any computer that can run NodeRED
 
 
 <h2>Installation Instructions (COMING SOON)</h2>
-- NodeRED Instructions Go Here
+
+- Install NodeRED on your machine using the instructions found here:
+      https://nodered.org/docs/getting-started/local
 
 - Need OSC and MOMENT modules for NodeRED - Details here.
 
