@@ -246,22 +246,25 @@ Away Team Hits:
 Shootout - Home Team Attempts:
 
         /nhl/out/game/shootout/home/attempts/
-              Example Return: 2              
+              Example Return: "ATTEMPTS: 2"              
 
 Shootout - Home Team Scores:
 
         /nhl/out/game/shootout/home/scores/
-              Example Return: 2 
+              Example Return: "SCORES: 0" 
 
 Shootout - Away Team Attempts:
 
         /nhl/out/game/shootout/away/attempts/
-              Example Return: 2 
+              Example Return: "ATTEMPTS: 2" 
               
 Shootout - Away Team Scores:
 
         /nhl/out/game/shootout/away/scores/
-              Example Return: 0
+              Example Return: "SCORES: 0"
+
+The shootout numbers include the leading text on purpose, so that you don't have to make extra text boxes in EOS (since you can't conditionally hide things in EOS)
+
 
 <h4>Play Information</h4>
 
