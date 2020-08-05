@@ -67,3 +67,30 @@ Team Strength:
               Example Return: "4-on-4"
 
 <h4>Team Information</h4>
+
+
+Home Team Name
+        /nhl/out/home/team/
+              Example Return: "Tampa Bay Lightning"
+
+Away Team Name
+        /nhl/out/away/team/
+              Example Return: "New York Rangers"
+
+Home Team OnIce Count
+        /nhl/out/home/count/onice/
+              Example Return: 5
+
+Away Team OnIce Count
+        /nhl/out/away/count/onice/
+              Example Return: 5
+
+Power Play Status - Home Team
+        /nhl/out/home/powerplay/
+              Example Return: "POWER PLAY" or "PENALTY KILL" or ""
+
+Power Play Status - Away Team
+        /nhl/out/away/powerplay/
+              Example Return: "POWER PLAY" or "PENALTY KILL" or ""              
+
+<h4>Score Information</h4>
