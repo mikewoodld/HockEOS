@@ -24,7 +24,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
     <pre>/nhl/get/team=XXX
         where xxx= 3-digit team code</pre>
 
-<![media/get_team_example.png](media/get_team_example.png)
+[media/get_team_example.png](media/get_team_example.png)
 
 
   Tells HockEOS how often to send you updates:
