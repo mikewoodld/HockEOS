@@ -127,6 +127,12 @@ Game Period Time Remaining:
               Example Return: "04:20"
               Note: This does not count in realtime, it is the time remaining at the time the API call was made.
 
+Game in Shootout
+
+        /nhl/out/game/shootout/
+              Example Return: "SHOOTOUT" or ""
+
+
 Team Strength:
 
         /nhl/out/game/strength/
@@ -185,6 +191,16 @@ Players in Penalty Box - Away Team:
         /nhl/out/away/inbox/
               Example Return: Carriage-return separated list of players in box           
 
+Empty Net - Home Team:
+
+        /nhl/out/home/net/
+              Example Return: "EMPTY" or ""
+
+Empty Net - Away Team:
+
+        /nhl/out/away/net/
+              Example Return: "EMPTY" or ""
+
 <h4>Score Information</h4>
 
 Home Team Current Score:
@@ -226,6 +242,26 @@ Away Team Hits:
 
         /nhl/out/away/hits/
               Example Return: 1
+
+Shootout - Home Team Attempts:
+
+        /nhl/out/game/shootout/home/attempts/
+              Example Return: 2              
+
+Shootout - Home Team Scores:
+
+        /nhl/out/game/shootout/home/scores/
+              Example Return: 2 
+
+Shootout - Away Team Attempts:
+
+        /nhl/out/game/shootout/away/attempts/
+              Example Return: 2 
+              
+Shootout - Away Team Scores:
+
+        /nhl/out/game/shootout/away/scores/
+              Example Return: 0
 
 <h4>Play Information</h4>
 
