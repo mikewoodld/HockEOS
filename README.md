@@ -174,6 +174,16 @@ Players On Ice - Away Team:
 
         /nhl/out/away/onice/
               Example Return: Carriage-return separated list of players on ice
+              
+Players in Penalty Box - Home Team:
+
+        /nhl/out/away/inbox/
+              Example Return: Carriage-return separated list of players in box
+              
+Players in Penalty Box - Away Team:
+
+        /nhl/out/away/inbox/
+              Example Return: Carriage-return separated list of players in box           
 
 <h4>Score Information</h4>
 
