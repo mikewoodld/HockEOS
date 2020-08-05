@@ -42,6 +42,10 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h3>Things you can display</h3>
 
+![media/example_magic_sheet.png](media/example_magic_sheet.png)
+
+
+
 <h4>Game Information</h4>
 Start Date and Time of Next Game:
 
@@ -106,7 +110,7 @@ Power Play Status - Home Team:
 Power Play Status - Away Team:
 
         /nhl/out/away/powerplay/
-              Example Return: "POWER PLAY" or "PENALTY KILL" or ""              
+              Example Return: "POWER PLAY" or "PENALTY KILL" or ""
 
 <h4>Score Information</h4>
 
@@ -138,7 +142,7 @@ Last Event:
         /nhl/out/play/event/
               Example Return: "Stoppage"
 
-Last Action:   
+Last Action:
 
         /nhl/out/play/action/
               Example Return: "Icing"
