@@ -195,7 +195,26 @@ Away Team Shots on Goal:
 
         /nhl/out/away/shots/
               Example Return: 20
+              
+Home Team Blocks:
 
+        /nhl/out/home/blocks/
+              Example Return: 20
+
+Away Team Blocks:
+
+        /nhl/out/away/blocks/
+              Example Return: 14
+
+Home Team Hits:
+
+        /nhl/out/home/hits/
+              Example Return: 35
+
+Away Team Hits:
+
+        /nhl/out/away/hits/
+              Example Return: 1
 
 <h4>Play Information</h4>
 
