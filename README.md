@@ -8,14 +8,21 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h2>What You Need</h2>
 - Eos Family Console (or Nomad)
+
 - Network
+
 - Computer running NodeRED (must have internet connection)
+
 
 <h2>Installation Instructions (COMING SOON)</h2>
 - NodeRED Instructions Go Here
+
 - Need OSC and MOMENT modules for NodeRED - Details here.
+
 - Network Requirements Go Here
+
 - EOS Network Settings Go Here
+
 
 <h2>Eos Magic Sheet Setup</h2>
 
@@ -29,7 +36,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
   Tells HockEOS how often to send you updates:
     <pre>/nhl/set/interval=YY
-        where YY is a number of seconds</pre>
+        where YY is a number of seconds (Default is 5)</pre>
 
 
 
