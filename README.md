@@ -69,54 +69,72 @@ Team Strength:
 <h4>Team Information</h4>
 
 
-Home Team Name
+Home Team Name:
 
         /nhl/out/home/team/
               Example Return: "Tampa Bay Lightning"
 
-Away Team Name
+Away Team Name:
 
         /nhl/out/away/team/
               Example Return: "New York Rangers"
 
-Home Team OnIce Count
+Home Team OnIce Count:
 
         /nhl/out/home/count/onice/
               Example Return: 5
 
-Away Team OnIce Count
+Away Team OnIce Count:
 
         /nhl/out/away/count/onice/
               Example Return: 5
 
-Power Play Status - Home Team
+Power Play Status - Home Team:
 
         /nhl/out/home/powerplay/
               Example Return: "POWER PLAY" or "PENALTY KILL" or ""
 
-Power Play Status - Away Team
+Power Play Status - Away Team:
 
         /nhl/out/away/powerplay/
               Example Return: "POWER PLAY" or "PENALTY KILL" or ""              
 
 <h4>Score Information</h4>
 
-Home Team Current Score
+Home Team Current Score:
 
         /nhl/out/home/score/
               Example Return: 6
 
-Away Team Current Score
+Away Team Current Score:
 
         /nhl/out/away/score/
               Example Return: 0
 
-Home Team Shots on Goal
+Home Team Shots on Goal:
 
         /nhl/out/home/shots/
               Example Return: 10
 
-Away Team Shots on Goal
+Away Team Shots on Goal:
 
         /nhl/out/away/shots/
               Example Return: 20
+
+
+<h4>Play Information</h4>
+
+Last Event:
+
+        /nhl/out/play/event/
+              Example Return: "Stoppage"
+
+Last Action:   
+
+        /nhl/out/play/action/
+              Example Return: "Icing"
+
+Detail:
+        /nhl/out/play/detail/
+              Example Return: "Stoppage - Icing"
+              This basically just concatenates the earlier two objects into one.
