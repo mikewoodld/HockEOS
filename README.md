@@ -35,8 +35,12 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 Start Date and Time of Next Game:
 
-          /nhl/out/game/start/
+        /nhl/out/game/start/
 
-Start Date and Time of Next Game:
+Arena Name of Next Game:
 
-          /nhl/out/game/start/
+        /nhl/out/arena/
+
+Game Status:
+
+        /nhl/out/game/status/
