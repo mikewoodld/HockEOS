@@ -38,11 +38,18 @@ This started off as a project for me to make a LAN based status board for NHL ga
 - Make sure that EOS/Nomad and NodeRed computer can talk to each other on a network (Wired recommended)
 
 - Set up NodeRED OSC:
-  - Double click on the grey UDP note under "Incoming OSC"
+  - Double click on the grey UDP node under "Incoming OSC"
   - Set incoming UDP port (3033 default) - this will be your OUTGOING port on EOS.
-  ![media/node_red_osc_setup_incoming.png](media/node_red_osc_setup_incoming.png)
+    ![media/node_red_osc_setup_incoming.png](media/node_red_osc_setup_incoming.png)
+  - Click Done
+
+  - Double Click on the outgoing UDP node to the far right under "Outgoing OSC"
+    - Set Address to the IPv4 address of your EOS/Nomad machine
+    - Set "to port" to be the Rx port of your EOS/Nomad machine (default 3032)
+      ![media/node_red_osc_setup_outgoing.png](media/node_red_osc_setup_outgoing.png)
 
 
+  - Click DEPLOY to start the Flow
 
 
 
