@@ -82,6 +82,9 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
  Start/Stop Live Updates:
     <pre>/nhl/set/push=true  (or false)
         </pre>
+           HockEOS will reply with:     
+             <pre>/nhl/out/push=true  (or false)
+              </pre>
         
 
 <h3>Things you can display</h3>
