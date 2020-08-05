@@ -94,3 +94,19 @@ Power Play Status - Away Team
               Example Return: "POWER PLAY" or "PENALTY KILL" or ""              
 
 <h4>Score Information</h4>
+
+Home Team Current Score
+        /nhl/out/home/score/
+              Example Return: 6
+
+Away Team Current Score
+        /nhl/out/away/score/
+              Example Return: 0
+
+Home Team Shots on Goal
+        /nhl/out/home/shots/
+              Example Return: 10
+
+Away Team Shots on Goal
+        /nhl/out/away/shots/
+              Example Return: 20
