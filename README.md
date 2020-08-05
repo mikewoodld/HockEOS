@@ -162,7 +162,17 @@ Power Play Status - Home Team:
 Power Play Status - Away Team:
 
         /nhl/out/away/powerplay/
-              Example Return: "POWER PLAY" or "PENALTY KILL" or ""
+              Example Return: "POWER PLAY" or "PENALTY KILL" or "
+              
+Players On Ice - Home Team:
+
+        /nhl/out/away/onice/
+              Example Return: Carriage-return separated list of players on ice
+              
+Players On Ice - Away Team:
+
+        /nhl/out/away/onice/
+              Example Return: Carriage-return separated list of players on ice
 
 <h4>Score Information</h4>
 
