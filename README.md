@@ -59,6 +59,7 @@ Please follow these instructions, in this order, or else it won't work. You must
 
 
   - Click DEPLOY to start the Flow
+    - Note: anytime you click "deploy," you will need to send `/eos/set/push=true` again.
 
 
 
