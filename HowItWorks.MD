@@ -14,11 +14,11 @@ HockEOS: The specific flow for this solution
 
 2) HockEOS Incoming UDP node passes data to OSC node, which returns the three digit code
 
-3) The three digit code passes through a switch node to determine which team ID# it corresponds to (number is neede for API Call)
+3) The three digit code passes through a switch node to determine which team ID# it corresponds to (number is needed for API Call)
 
-4) EOS Screen is Updated / Old values are cleared
+4) Old variables are cleared, those blank variables are then sent to EOS temporarily
 
-5) ID is put into the API URL and a call is initiated to the NHL API
+5) ID from step 3 is put into the API URL and a call is initiated to the NHL API
 
 6) NHL API returns details about the next game for that particular team, and sets a number of variables used throughout
 
