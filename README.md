@@ -23,15 +23,15 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 - Install NodeRED on your machine using the instructions found here:
 
-      https://nodered.org/docs/getting-started/local
+    https://nodered.org/docs/getting-started/local
 
 - Install node-red-contrib-osc Node:
 
-      https://github.com/mikewoodld/node-red-contrib-osc
+    https://github.com/mikewoodld/node-red-contrib-osc
 
 - Install node-red-contrib-moment Node:
 
-      https://github.com/mikewoodld/node-red-contrib-moment
+    https://github.com/mikewoodld/node-red-contrib-moment
 
 - Make sure computer running NodeRED has active internet connection.
 
