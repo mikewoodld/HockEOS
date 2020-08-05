@@ -19,7 +19,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
   - I use a Raspberry Pi, but it should work on any computer that can run NodeRED
 
 
-<h2>Installation Instructions (COMING SOON)</h2>
+<h2>Installation Instructions</h2>
 
 - Install NodeRED on your machine using the instructions found here:
 
@@ -36,6 +36,9 @@ This started off as a project for me to make a LAN based status board for NHL ga
 - Make sure computer running NodeRED has active internet connection.
 
 - Make sure that EOS/Nomad and NodeRed computer can talk to each other on a network (Wired recommended)
+
+- Import HockEOS Flow into NodeRED
+  - Put link to flow .JSON file here
 
 - Set up NodeRED OSC:
   - Double click on the grey UDP node under "Incoming OSC"
