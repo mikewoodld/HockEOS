@@ -21,6 +21,8 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h2>Installation Instructions</h2>
 
+Please follow these instructions, in this order, or else it won't work. You must install the two listed nodes below before trying to import HockEOS.
+
 - Install NodeRED on your machine using the instructions found here:
 
     https://nodered.org/docs/getting-started/local
