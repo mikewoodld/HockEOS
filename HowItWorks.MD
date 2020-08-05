@@ -1,11 +1,14 @@
-Definitions:
+#Definitions:
 
 Node: A individual node from withn a NodeRED Flow
+
 Flow: A collection of nodes
+
 HockEOS: The specific flow for this solution
 
 
-Data Flow:
+
+#Data Flow:
 
 1) User sends /nhl/get/team=XXX to HockEOS incoming UDP Node, where XXX is the three letter code of an NHL team.
 
