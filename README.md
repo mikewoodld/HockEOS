@@ -33,6 +33,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h3>Things you can display</h3>
 
+<h4>Game Information</h4>
 Start Date and Time of Next Game:
 
         /nhl/out/game/start/
@@ -47,3 +48,22 @@ Game Status:
 
         /nhl/out/game/status/
             Example Return: "In Progress"
+
+
+Game Period:
+
+        /nhl/out/game/period/
+              Example Return: "1st Period"
+
+Game Period Time Remaining:
+
+        /nhl/out/game/period/time/remaining/
+              Example Return: "04:20"
+              Note: This does not count in realtime, it is the time remaining at the time the API call was made.
+
+Team Strength:
+
+        /nhl/out/game/strength/
+              Example Return: "4-on-4"
+
+<h4>Team Information</h4>
