@@ -68,12 +68,15 @@ Please follow these instructions, in this order, or else it won't work. You must
 
 ![media/get_team_example.png](media/get_team_example.png)
 
-HockEOS will reply with the next game for chosen team, if there is one.
+HockEOS will reply with the next game for chosen team, if there is one, using the data outlined in the next section.
 
 
   Tells HockEOS how often to send you updates:
     <pre>/nhl/set/interval=YY
         where YY is a number of seconds (Default is 5, accepts 1 through 9999)</pre>
+           HockEOS will reply with:
+            <pre>/nhl/out/interval=ZZ
+        where ZZ is the number of seconds you specified</pre>
 
 
  Start/Stop Live Updates:
