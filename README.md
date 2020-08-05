@@ -77,7 +77,7 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
 
   Tells HockEOS how often to send you updates:
     <pre>/nhl/set/interval=YY
-        where YY is a number of seconds (Default is 5, accepts 1 through 9999)</pre>
+        where YY is a number of seconds as an integer (Default is 5, accepts 1 through 9999)</pre>
            HockEOS will reply with:
             <pre>/nhl/out/set/interval=ZZ
         where ZZ is the number of seconds you specified</pre>
