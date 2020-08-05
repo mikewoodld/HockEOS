@@ -194,12 +194,12 @@ Players in Penalty Box - Away Team:
 Empty Net - Home Team:
 
         /nhl/out/home/net/
-              Example Return: "EMPTY" or ""
+              Example Return: "EMPTY NET" or ""
 
 Empty Net - Away Team:
 
         /nhl/out/away/net/
-              Example Return: "EMPTY" or ""
+              Example Return: "EMPTY NET" or ""
 
 <h4>Score Information</h4>
 
