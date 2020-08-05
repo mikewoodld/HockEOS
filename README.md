@@ -24,7 +24,7 @@ This started off as a project for me to make a LAN based status board for NHL ga
     <pre>/nhl/get/team=XXX
         where xxx= 3-digit team code</pre>
 
-   
+
   Tells HockEOS how often to send you updates:
     <pre>/nhl/set/interval=YY
         where YY is a number of seconds</pre>
@@ -33,3 +33,4 @@ This started off as a project for me to make a LAN based status board for NHL ga
 
 <h3>Things you can display</h3>
     <pre>/nhl/out/game/start/</pre>
+    TEST
