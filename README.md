@@ -34,6 +34,10 @@ Please follow these instructions, in this order, or else it won't work. You must
 - Install node-red-contrib-moment Node:
 
     https://github.com/mikewoodld/node-red-contrib-moment
+    
+- Install node-red-contrib-interval Node:
+
+    https://github.com/mikewoodld/node-red-contrib-interval
 
 - Make sure computer running NodeRED has active internet connection.
 
