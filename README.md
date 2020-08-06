@@ -152,7 +152,7 @@ Away Team Name:
         /nhl/out/away/team/
               Example Return: "New York Rangers"
 
-Home Team Record:
+Home Team Record :
 
           /nhl/out/home/team/record/
               Example Return: "(34-1-1)" W-L-OTL   
