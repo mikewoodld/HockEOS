@@ -155,12 +155,14 @@ Away Team Name:
 Home Team Record :
 
           /nhl/out/home/team/record/
-              Example Return: "(34-1-1)" W-L-OTL   
+              Example Return: "(34-1-1)"
+              note: W-L-OTL   
 
 Away Team Record:
 
           /nhl/out/away/team/record/
-              Example Return: "(1-34-1)" W-L-OTL
+              Example Return: "(1-34-1)"
+              note: W-L-OTL
 
 Home Team OnIce Count:
 
