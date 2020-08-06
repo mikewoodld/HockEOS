@@ -184,7 +184,7 @@ Power Play Status - Away Team:
 
 Players On Ice - Home Team:
 
-        /nhl/out/away/onice/
+        /nhl/out/home/onice/
               Example Return: Carriage-return separated list of players on ice
 
 Players On Ice - Away Team:
@@ -194,7 +194,7 @@ Players On Ice - Away Team:
 
 Players in Penalty Box - Home Team:
 
-        /nhl/out/away/inbox/
+        /nhl/out/home/inbox/
               Example Return: Carriage-return separated list of players in box
 
 Players in Penalty Box - Away Team:
