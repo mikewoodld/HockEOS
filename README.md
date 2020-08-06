@@ -144,12 +144,12 @@ Team Strength:
 
 Home Team Name:
 
-        /nhl/out/home/team/
+        /nhl/out/home/team/name/
               Example Return: "Tampa Bay Lightning"
 
 Away Team Name:
 
-        /nhl/out/away/team/
+        /nhl/out/away/team/name/
               Example Return: "New York Rangers"
 
 Home Team Record :
