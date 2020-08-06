@@ -94,7 +94,8 @@ HockEOS will reply with the next game for chosen team, if there is one, using th
 
 <h3>Things you can display</h3>
 
-![EOS_Examples.MD](Click here for magic sheet examples)
+[Click here for magic sheet examples](EOS_Examples.MD)
+
 Click here for sample .esf with magic sheet
 
 Right now I'm starting with a limited set of data. There's all kinds of data that the NHL API makes available  - you could easily reverse engineer what I've made here to add more data, or you can wait until I add more :)
