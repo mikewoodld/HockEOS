@@ -9,6 +9,8 @@ Of course, I recommend that you NOT use this during a show.
 <h1>About</h1>
 This started off as a project for me to make a LAN based status board for NHL games. Then, Scott Tusing joked that I should make it also send the data to EOS. So, here we are.
 
+This became part of a larger project: https://github.com/mikewoodld/EOSDataCenter
+
 <h2>What You Need</h2>
 
 - Eos Family Console (or Nomad)
