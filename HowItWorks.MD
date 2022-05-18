@@ -28,8 +28,8 @@ HockEOS: The specific flow for this solution
 
 9) Some calculations are made for power play status and other Things
 
-10) Data from variables is converted to OSC messages
+10) Data from variables is converted to OSC packets
 
-11) OSC messages are sent to Eos
+11) OSC packets are sent to Eos
 
 12) Magic Sheet objects of type "command" are updated as needed
