@@ -4,7 +4,7 @@ Get realtime NHL stats pushed to EOS using OSC from NodeRed running on a separat
 This is in absolutely no way affiliated with ETC, and is certainly not endorsed by ETC.
 Of course, I recommend that you NOT use this during a show.
 
-!! THIS README IS NOT COMPLETE IF YOU ARE READING THIS LINE, IT MEANS THAT I HAVEN'T FINISHED THIS YET !!
+!! THIS README IS NOT COMPLETE IF YOU ARE READING THIS LINE, IT MEANS THAT I HAVEN'T FINISHED THIS YET - DO NOT TRY TO INSTALL YOURSELF OR YOU WILL BE DISAPPOINTED !!
 
 <h1>About</h1>
 This started off as a project for me to make a LAN based status board for NHL games. Then, Scott Tusing joked that I should make it also send the data to EOS. So, here we are.
